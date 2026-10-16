@@ -1,0 +1,1 @@
+import{j as n,L as o}from"./index-BgelOHRI.js";function s(){return n.jsxs("main",{className:"page",children:[n.jsx("h1",{children:"Page not found"}),n.jsx(o,{to:"/",children:"Go home"})]})}export{s as default};
